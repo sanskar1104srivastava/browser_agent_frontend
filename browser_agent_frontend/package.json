@@ -1,0 +1,9 @@
+{
+  "name": "browser_agent_frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "livekit-server-sdk": "^2.15.0"
+  }
+}
